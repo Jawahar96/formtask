@@ -1,0 +1,37 @@
+.container{
+
+    margin: 50px;
+    padding: 60px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+#table{
+
+    display: flex;
+    border-radius: 30px;
+    border-collapse: collapse;
+    
+}
+
+body{
+    background-position: 20px;
+    background-color: darkgreen;
+    color: darkgray;
+    
+}
+h2{
+    justify-content: center;
+    padding: 10px;
+
+}
+
+.btnbtn-primary{
+    text-align: right;
+    justify-items: left;
+    justify-content: end;
+
+}
